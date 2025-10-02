@@ -1,8 +1,9 @@
 # Beach-Resort
 
+**Live Demo:** https://adorable-maamoul-aa030d.netlify.app/
+
 ![Pages Deploy](https://github.com/eriktong/Beach-Resort/actions/workflows/pages.yml/badge.svg) ![Last commit](https://img.shields.io/github/last-commit/eriktong/Beach-Resort) 
 
-**Live Demo:** [https://eriktong.github.io/Beach-Resort/](https://eriktong.github.io/Beach-Resort/)
 
 > Resort booking/rooms showcase demo.
 
